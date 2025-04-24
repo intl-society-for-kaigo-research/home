@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The mission of the International Society for Kaigo Research is to promote the highest levels of achievement in gerontological research and training worldwide, and to interact with other international, inter-governmental and non-governmental organizations in the promotion of gerontological interests globally and on behalf of its member associations. The Society pursues these activities with a view of enhancing the highest quality of life and well being of all people as they experience ageing at individual and societal levels."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About",
+    "section": "",
+    "text": "The mission of the International Society for Kaigo Research is to promote the highest levels of achievement in gerontological research and training worldwide, and to interact with other international, inter-governmental and non-governmental organizations in the promotion of gerontological interests globally and on behalf of its member associations. The Society pursues these activities with a view of enhancing the highest quality of life and well being of all people as they experience ageing at individual and societal levels."
+  },
+  {
+    "objectID": "about.html#internationa-rules",
+    "href": "about.html#internationa-rules",
+    "title": "About",
+    "section": "Internationa Rules",
+    "text": "Internationa Rules\nISKR By-Laws comply with the regulations of the Japanese Government."
+  },
+  {
+    "objectID": "about.html#executive-committee",
+    "href": "about.html#executive-committee",
+    "title": "About",
+    "section": "Executive Committee",
+    "text": "Executive Committee\n\nDr. Yoshihiko Baba, President\nMs. Midori Suminaga, Vice President\nDr. Kazuto Aoki, Vice President"
+  },
+  {
+    "objectID": "about.html#membership",
+    "href": "about.html#membership",
+    "title": "About",
+    "section": "Membership",
+    "text": "Membership\nJoin ISKR | ISKR に入会"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "ISKR Home",
@@ -9,15 +44,22 @@
   {
     "objectID": "event.html",
     "href": "event.html",
-    "title": "ISKR Events",
+    "title": "Events",
     "section": "",
-    "text": "ISKR Conference 2025"
+    "text": "ISKR Conference 2025, 30 April - 2 May, 2025, Online\nWeekly Online Laboratory, 6:30-9:00 (JST) every Saturday or 21:30-24:00 (GMT) every Friday"
   },
   {
     "objectID": "event.html#current-event",
     "href": "event.html#current-event",
-    "title": "ISKR Events",
+    "title": "Events",
     "section": "",
-    "text": "ISKR Conference 2025"
+    "text": "ISKR Conference 2025, 30 April - 2 May, 2025, Online\nWeekly Online Laboratory, 6:30-9:00 (JST) every Saturday or 21:30-24:00 (GMT) every Friday"
+  },
+  {
+    "objectID": "event.html#future-events",
+    "href": "event.html#future-events",
+    "title": "Events",
+    "section": "Future Events",
+    "text": "Future Events\n\nISKR Conference 2026: 11-13 March 2026, Fukui, Japan"
   }
 ]
