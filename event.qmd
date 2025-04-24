@@ -1,8 +1,13 @@
 ---
-title: "ISKR Events"
+title: "Events"
 ---
 
 ## Current Event
 
-- [ISKR Conference 2025](https://intl-society-for-kaigo-research.github.io/iskr2025/index.html)
+- [ISKR Conference 2025](https://intl-society-for-kaigo-research.github.io/iskr2025/index.html), 30 April - 2 May, 2025, Online
+- Weekly Online Laboratory, 6:30-9:00 (JST) every Saturday or 21:30-24:00 (GMT) every Friday
+
+## Future Events
+
+- ISKR Conference 2026: 11-13 March 2026, Fukui, Japan
 
