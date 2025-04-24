@@ -1,8 +1,0 @@
----
-title: "ISKR Events"
----
-
-## Current Event
-
-- [ISKR Conference 2025](https://intl-society-for-kaigo-research.github.io/iskr2025/index.html)
-
