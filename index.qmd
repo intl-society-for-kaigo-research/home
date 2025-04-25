@@ -1,5 +1,8 @@
 ---
 title: "ISKR Home"
+date: last-modified
+resources:
+  - .nojekyll
 ---
 
 Welcome to the International Society for Kaigo Reseach Website.
