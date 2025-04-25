@@ -12,7 +12,7 @@ ISKR By-Laws comply with the regulations of the Japanese Government.
 
 ## Executive Committee
 
-- Dr. Yoshihiko Baba, President <a href=”https://orcid.org/0000-0001-7034-9724” aria-label=”View ORCID record”><img src=”orcid.svg” alt=”ORCID iD”/>https://orcid.org/0000-0001-7034-9724</a>
+- Dr. Yoshihiko Baba, President <a href="https://orcid.org/0000-0001-7034-9724" aria-label="View ORCID record"><img src="orcid.svg" alt="ORCID iD"/>https://orcid.org/0000-0001-7034-9724</a>
 - Ms. Midori Suminaga, Vice President
 - Dr. Kazuto Aoki, Vice President
 
