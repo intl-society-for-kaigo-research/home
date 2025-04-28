@@ -6,3 +6,5 @@ resources:
 ---
 
 Welcome to the International Society for Kaigo Reseach Website.
+
+Kaigo is a Japanese term, which is often translated "long-term care".
