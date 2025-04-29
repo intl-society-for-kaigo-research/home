@@ -7,4 +7,9 @@ resources:
 
 Welcome to the International Society for Kaigo Reseach Website.
 
-Kaigo is a Japanese term, which is often translated "long-term care".
+The term *kaigo* (介護) is of Japanese origin and refers to caregiving, particularly for older adults and individuals with disabilities. Rooted in the values of respect and dignity, *kaigo* emphasises the importance of maintaining each person's independence and autonomy, regardless of their care needs.
+
+More than just a method of care, kaigo reflects a broader philosophy. It serves as a practical approach to implementing the principle of normalisation--the idea that all individuals, regardless of ability or age, should be supported to live as full and integrated members of society.
+
+At its core, *kaigo* is person-centred. It is not limited to institutional or home-based care, but extends throughout the community. Whether in hospitals, care facilities, local neighbourhoods, or public spaces, *kaigo* fosters environments that support holistic, inclusive, and compassionate care.
+
