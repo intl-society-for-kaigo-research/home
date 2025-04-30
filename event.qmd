@@ -9,5 +9,5 @@ title: "Events"
 
 ## Future Events
 
-- ISKR Conference 2026: 11-13 March 2026, Fukui, Japan
+- [ISKR Conference 2026](https://intl-society-for-kaigo-research.github.io/iskr2026/index.html): 11-13 March 2026, Fukui, Japan
 
