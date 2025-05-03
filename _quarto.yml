@@ -6,6 +6,11 @@ execute:
 website:
   site-url: "https://intl-society-for-kaigo-research.github.io/home/index.html"
   title: "ISKR"
+  page-footer:
+    left: "Copyright 2021, Norah Jones" 
+    right: 
+      - icon: github
+        href: https://github.com/intl-society-for-kaigo-research
   navbar:
     left:
       - href: index.qmd
