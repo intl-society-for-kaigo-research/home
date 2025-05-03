@@ -7,7 +7,7 @@ website:
   site-url: "https://intl-society-for-kaigo-research.github.io/home/index.html"
   title: "ISKR"
   page-footer:
-    left: "Copyright 2021, Norah Jones" 
+    left: "Copyright 2025, ISKR" 
     right: 
       - icon: github
         href: https://github.com/intl-society-for-kaigo-research
@@ -17,6 +17,13 @@ website:
         text: Home
       - about.qmd
       - event.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Home
+            href:  https://github.com/intl-society-for-kaigo-research
+          - text: Report an Issue
+            href:  https://github.com/intl-society-for-kaigo-research/home/issues
 
 format:
   html:
